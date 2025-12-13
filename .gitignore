@@ -1,0 +1,8 @@
+/venv
+# Ignore all .adk files anywhere
+**/*.adk
+*.adk
+
+# Ignore all __pycache__ directories anywhere
+**/__pycache__/
+__pycache__/
